@@ -1,4 +1,11 @@
 # Pemrograman-Berbasis-Platform
+Link demo youtube :
+https://youtu.be/lnYLjkgovRA?si=rMLPN-wyzve50Vko
+
+Tampilan website
+
+![alt text](https://github.com/Dennykp2611/Pemrograman-Berbasis-Platform/blob/main/Tampilan%20Web_027Denny%20Kusuma%20Putra_TIA.png)
+
 Tampilan website portofolio ini memiliki desain yang modern, responsif, dan profesional, dengan nuansa tema gelap (dark theme) yang dominan berwarna hitam dan merah marun. Warna ini memberikan kesan elegan dan teknologis, sesuai dengan bidang yang digeluti, yaitu 3D Design dan Mechanical Robotics. Struktur tata letak tersusun rapi dalam satu halaman (one-page layout) yang terdiri dari beberapa bagian utama seperti Home, About Me, Projects, dan Contact Me, serta navigasi di bagian atas (navbar) untuk berpindah antarbagian dengan mudah.
 
 Bagian Home menampilkan header dengan foto profil berbentuk lingkaran, nama besar di tengah halaman, dan deskripsi singkat mengenai latar belakang serta dua tombol interaktif untuk melihat proyek dan menghubungi pemilik. Lalu di bagian About Me, terdapat kotak berwarna abu-abu gelap dengan teks putih yang menjelaskan pengalaman, keahlian (skills), serta tools yang digunakan. Elemen seperti badge atau tombol kecil berwarna merah digunakan untuk memperjelas kategori skill dan software, sehingga tampak terorganisir dan menarik.
